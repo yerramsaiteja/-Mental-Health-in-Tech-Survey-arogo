@@ -28,6 +28,7 @@ Flask Application
 To make the model easily accessible to users, a Flask web application was developed. The application provides a user-friendly interface where individuals can input relevant details, such as age, work-related factors, and personal history. Based on these inputs, the trained model predicts whether the individual may need mental health support. The web application serves as a practical tool for increasing awareness and encouraging early intervention.
 
 Conclusion
-This project successfully demonstrates the application of machine learning in mental health prediction. By analyzing survey data, the model helps identify individuals who may require mental health support. The Random Forest model was found to be the most effective, achieving an accuracy of 79.37%. Additionally, the Flask web application enhances accessibility, allowing users to obtain predictions e
+This project successfully demonstrates the application of machine learning in mental health prediction. By analyzing survey data, the model helps identify individuals who may require mental health support. The Random Forest model was found to be the most effective, achieving an accuracy of 79.37%. Additionally, the Flask web application enhances accessibility, allowing users to obtain predictions
+
 
 
